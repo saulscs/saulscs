@@ -5,7 +5,7 @@ I´m Saúl Corona from México City 👨‍💻 🇲🇽
 Experienced at  organization, solving problems, teamwork, and agile methodologies.
 Proven ability to leverage frontend expertise to build interactive and user-centered website designs to scale.
 Well-versed in technology and writing code to create systems that are reliable and user-friendly.
-Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs
+Confident communicator, strategic thinker, and innovative creator to develop software that is customized to meet a company’s organizational needs.
 
 On the other hand, I´m making videos at Youtube for beginners developers, videos are in Spanish so you can learn also Spanish. 
 
