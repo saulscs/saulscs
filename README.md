@@ -10,7 +10,7 @@ Confident communicator, strategic thinker, and innovative creator to develop sof
 On the other hand, I´m making videos at Youtube for beginners developers, videos are in Spanish so you can learn also Spanish. 
 
 
-💻 Technologies: `Javascript`, `React`, `Redux`, `Firebase`, `Node`, `Gatsby.js`,`Next.js`
+💻 Technologies: `Javascript`,  `Node`, `React`, `Redux`, `Firebase`, `Gatsby.js`,`Next.js`
 
 
 📫 How to reach me:
