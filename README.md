@@ -10,7 +10,7 @@ Confident communicator, strategic thinker, and innovative creator to develop sof
 On the other hand, I´m making videos at Youtube for beginners developers, videos are in Spanish so you can learn also Spanish. 
 
 
-💻 Technologies: `Javascript`,  `Node`, `React`, `Redux`, `Firebase`, `Gatsby.js`,`Next.js`
+💻 Technologies: `Javascript`,  `Node`, `React`, `Swift`.
 
 
 📫 How to reach me:
@@ -19,7 +19,7 @@ On the other hand, I´m making videos at Youtube for beginners developers, video
 
 [![Linkedin](https://i.imgur.com/H6S1Ad2.png)](http://bit.ly/linkedinpaginaweb) &nbsp;&nbsp; [![Twitter](https://i.imgur.com/H0WtO84.png)](http://bit.ly/twitter-ytscs) &nbsp;&nbsp;
 
-[saulcorona.com](https://saulcorona.com)
+[saulcorona.com](https://www.saulcorona.com)
 
 
   
