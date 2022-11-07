@@ -17,7 +17,7 @@ On the other hand, I´m making videos at Youtube for beginners developers, video
 
 
 
-[![Linkedin](https://i.imgur.com/H6S1Ad2.png)](http://bit.ly/linkedinpaginaweb) &nbsp;&nbsp; [![Twitter](https://i.imgur.com/H0WtO84.png)](http://bit.ly/twitter-ytscs) &nbsp;&nbsp;
+[![Linkedin](https://i.imgur.com/H6S1Ad2.png)](http://bit.ly/linkedinpaginaweb) &nbsp;&nbsp;
 
 [saulcorona.com](https://www.saulcorona.com)
 
